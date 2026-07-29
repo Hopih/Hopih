@@ -15,6 +15,7 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
+          config_display: large
           plugin_leetcode: yes
           plugin_leetcode_user: X7even
           plugin_leetcode_sections: solved, skills, recent
