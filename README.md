@@ -1,7 +1,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hopih&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Hopih's GitHub stats](https://github-readme-stats.shion.dev/api?username=Hopih&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Hopih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hopih's GitHub stats](https://github-readme-stats.shion.dev/api?username=Hopih&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Hopih&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![LeetCode Stats](./metrics.plugin.leetcode.svg)
 <!--
 **Hopih/Hopih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
