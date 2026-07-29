@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="402" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="419" class="">
     <defs>
         <style/>
     </defs>
@@ -6,12 +6,6 @@
     <style>.leetcode.scores .gauge {
  width: 90px !important;
  height: 90px !important;
-}
-.leetcode.scores .gauge text {
- font-size: 18px !important;
-}
-.leetcode.scores .gauge text.secondary {
- font-size: 12px !important;
 }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -26,7 +20,7 @@
                     <div class="row fill-width leetcode scores">
                         <section class="categories">
                             <div class="category column">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="90" height="90" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.6429463171036205 329"/>
                                     <text x="60" y="50" dominant-baseline="central">20</text>
@@ -35,7 +29,7 @@
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="90" height="90" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.817991631799163 329"/>
                                     <text x="60" y="50" dominant-baseline="central">14</text>
@@ -44,7 +38,7 @@
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="90" height="90" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.9440459110473458 329"/>
                                     <text x="60" y="50" dominant-baseline="central">6</text>
@@ -53,7 +47,7 @@
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="90" height="90" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
