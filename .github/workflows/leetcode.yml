@@ -16,7 +16,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           config_display: regular
-          config_padding: 0, 12 + 15%
+          config_padding: 0, 12 + 20%
           plugin_leetcode: yes
           plugin_leetcode_user: X7even
           plugin_leetcode_sections: solved, skills, recent
@@ -25,9 +25,8 @@ jobs:
               width: 90px !important;
               height: 90px !important;
             }
-            .leetcode.scores .gauge text {
-              font-size: 18px !important;
-            }
-            .leetcode.scores .gauge text.secondary {
-              font-size: 12px !important;
-            }
+          extras_js: |
+            document.querySelectorAll(".leetcode.scores .gauge").forEach((g) => {
+              g.setAttribute("width", "90");
+              g.setAttribute("height", "90");
+            });
