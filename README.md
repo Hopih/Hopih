@@ -14,8 +14,8 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,python,django,postgresql,redis,mysql,qdrant,docker,git,github,react,vuejs,typescript,javascript,html,css&theme=dark&perline=17" width="94%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="5%" title="ASP.NET Core" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,python,django,postgresql,redis,mysql,qdrant,docker,git,github,react,vuejs,typescript,javascript,html,css&theme=dark&perline=17" width="94%" />
 </p>
 
 <!--
