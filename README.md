@@ -11,7 +11,11 @@
   </tr>
 </table>
 
-![LeetCode Stats](./metrics.plugin.leetcode.svg)
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,postgres,redis,mysql,docker,git,github,react,ts,js,html,css&theme=dark&perline=14" />
+</p>
 <!--
 **Hopih/Hopih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
